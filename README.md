@@ -8,15 +8,15 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-Import the required libraries and read the dataframe.
+1.Import the required libraries and read the dataframe.
 
-Assign hours to X and scores to Y.
+2.Assign hours to X and scores to Y.
 
-Implement training set and test set of the dataframe
+3.Implement training set and test set of the dataframe
 
-Plot the required graph both for test data and training data.
+4.Plot the required graph both for test data and training data.
 
-Find the values of MSE , MAE and RMSE.
+5.Find the values of MSE , MAE and RMSE.
 
 
 
@@ -79,7 +79,15 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-
+/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-12-04.png
+/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-12-19.png
+/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-12-49.png
+/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-13-16.png
+/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-13-24.png
+/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-13-41.png
+/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-14-06.png
+/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-14-14.png
+/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-14-33.png
 
 
 ## Result:
