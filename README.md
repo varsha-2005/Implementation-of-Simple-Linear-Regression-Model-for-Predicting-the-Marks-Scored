@@ -79,7 +79,7 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-/home/sec/Pictures/Screenshots/head.png
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
