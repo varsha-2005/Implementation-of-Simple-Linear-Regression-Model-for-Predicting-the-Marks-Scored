@@ -79,16 +79,7 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-12-04.png
-/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-12-19.png
-/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-12-49.png
-/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-13-16.png
-/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-13-24.png
-/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-13-41.png
-/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-14-06.png
-/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-14-14.png
-/home/sec/Pictures/Screenshots/Screenshot from 2023-04-02 09-14-33.png
-
+/home/sec/Pictures/Screenshots/head.png
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
