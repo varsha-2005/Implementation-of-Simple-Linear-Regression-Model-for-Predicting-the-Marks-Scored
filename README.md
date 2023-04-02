@@ -79,6 +79,23 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
+![v1](https://user-images.githubusercontent.com/119288183/229331075-16a22235-cdad-45f0-97a9-1f21009a2699.png)
+
+
+![tail](https://user-images.githubusercontent.com/119288183/229331098-05926dc6-cab8-46aa-bf4a-f0e571d3d4d6.png)
+
+![x](https://user-images.githubusercontent.com/119288183/229331182-4d6b82fd-f8ab-4ec5-80f3-6221e60b977e.png)
+
+
+![y](https://user-images.githubusercontent.com/119288183/229331167-82d991a7-47b6-48e5-833c-33ce1b3dc88d.png)
+
+![ypredct](https://user-images.githubusercontent.com/119288183/229331206-1cbe9d83-bc81-495c-ba48-49917c0ec901.png)
+
+![ytest](https://user-images.githubusercontent.com/119288183/229331224-4d72bb36-e9e4-44aa-8ae1-8f197de45330.png)
+
+![graph1](https://user-images.githubusercontent.com/119288183/229331243-7cb022e6-9619-4ce7-a181-7f579667dc18.png)
+
+![graph2](https://user-images.githubusercontent.com/119288183/229331248-b6adebf0-5a69-4513-9bf1-956b1a1c8568.png)
 
 
 ## Result:
